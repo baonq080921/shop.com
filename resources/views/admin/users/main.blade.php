@@ -26,6 +26,7 @@
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <!-- Main content -->
+    @include('admin.users.alert')
     <section class="content">
       <div class="container-fluid">
         <div class="row">
